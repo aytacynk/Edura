@@ -12,5 +12,6 @@ namespace Edura.Web.UI.Controllers
         {
             return View();
         }
+
     }
 }
